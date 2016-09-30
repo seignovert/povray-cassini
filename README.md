@@ -2,6 +2,7 @@
 This script render a synthetic image of Cassini spacecraft.
 
 ## [NASA JPL Cassini 3D model](https://nasa3d.arc.nasa.gov/detail/jpl-vtad-cassini)
+Screenshot of Cassini 3D model in [Blender](https://www.blender.org/) 
 ![Cassini Blender model](Cassini-Blender.png)
 
 ## Convert STL files to PovRay
