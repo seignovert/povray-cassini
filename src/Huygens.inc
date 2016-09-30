@@ -4,7 +4,7 @@
 //----------------------------------------------------
 
 // Source file name: 'Blender/Huygens_foil_gold.stl'
-# declare Huygens_foil_gold = mesh2 {
+#local Huygens_foil_gold = mesh2 {
   vertex_vectors {
     338,
     <0.119041919708, 1.66991639137, -1.63504052162>,
@@ -1011,7 +1011,7 @@
   }
 }// on Thu Sep 29 23:20:05 2016.
 // Source file name: 'Blender/Huygens_tex.stl'
-# declare Huygens_tex = mesh2 {
+#local Huygens_tex = mesh2 {
   vertex_vectors {
     14,
     <-0.118552282453, 1.66991627216, -1.63504040241>,

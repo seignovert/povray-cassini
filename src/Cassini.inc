@@ -7,7 +7,7 @@
 #include "textures.inc"
 
 // Source file name: 'Blender/Cassini_aluminum.stl'
-# declare Cassini_aluminum = mesh2 {
+# local Cassini_aluminum = mesh2 {
   vertex_vectors {
     2071,
     <-0.118646144867, -0.137531548738, 1.9745388031>,
@@ -5235,7 +5235,7 @@
   }
 }// on Thu Sep 29 19:10:14 2016.
 // Source file name: 'Blender/Cassini_dish.stl'
-# declare Cassini_dish = mesh2 {
+# local Cassini_dish = mesh2 {
   vertex_vectors {
     1722,
     <0.723129034042, 0.831490397453, 1.65246796608>,
@@ -9752,7 +9752,7 @@
   }
 }// on Thu Sep 29 22:19:14 2016.
 // Source file name: 'Blender/Cassini_foil_gold_3.stl'
-# declare Cassini_foil_gold = mesh2 {
+# local Cassini_foil_gold = mesh2 {
   vertex_vectors {
     5664,
     <1.07851171494, 0.0980744659901, 0.474581122398>,
@@ -25990,7 +25990,7 @@
   }
 }// on Thu Sep 29 21:01:04 2016.
 // Source file name: 'Blender/Cassini_krinkle.stl'
-# declare Cassini_krinkle = mesh2 {
+# local Cassini_krinkle = mesh2 {
   vertex_vectors {
     1097,
     <0.952537596226, 0.372624993324, -2.68827033043>,
@@ -29064,7 +29064,7 @@
   }
 }// on Thu Sep 29 22:39:27 2016.
 // Source file name: 'Blender/Cassini_plastic_dark.stl'
-# declare Cassini_plastic_dark = mesh2 {
+# local Cassini_plastic_dark = mesh2 {
   vertex_vectors {
     3328,
     <-0.417599320412, -1.2764390707, 0.639895796776>,
@@ -37784,7 +37784,7 @@
   }
 }// on Thu Sep 29 22:46:03 2016.
 // Source file name: 'Blender/Cassini_plastic_white.stl'
-# declare Cassini_plastic_white = mesh2 {
+# local Cassini_plastic_white = mesh2 {
   vertex_vectors {
     667,
     <0.0339411385357, 0.0339410565794, 3.24711704254>,
@@ -39482,7 +39482,7 @@
   }
 }// on Thu Sep 29 22:58:03 2016.
 // Source file name: 'Blender/Cassini_tex.stl'
-# declare Cassini_tex = mesh2 {
+# local Cassini_tex = mesh2 {
   vertex_vectors {
     144,
     <-0.402087956667, -1.26106023788, 0.359398156404>,
