@@ -1,7 +1,11 @@
+// @brief    PovRay model of Cassini spacecraft
+// @author   B.Seignovert (univ-reims@seignovert.fr)
+// @date     2016/09/30
+//----------------------------------------------------
+
 #include "colors.inc"
 #include "textures.inc"
 
-// on Thu Sep 29 21:13:57 2016.
 // Source file name: 'Blender/Cassini_aluminum.stl'
 # declare Cassini_aluminum = mesh2 {
   vertex_vectors {

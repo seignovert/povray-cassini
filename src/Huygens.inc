@@ -1,4 +1,8 @@
-// on Thu Sep 29 22:23:09 2016.
+// @brief    PovRay model of Huygens
+// @author   B.Seignovert (univ-reims@seignovert.fr)
+// @date     2016/09/30
+//----------------------------------------------------
+
 // Source file name: 'Blender/Huygens_foil_gold.stl'
 # declare Huygens_foil_gold = mesh2 {
   vertex_vectors {

@@ -1,3 +1,8 @@
+// @brief    Render a synthetic image of Cassini alone
+// @author   B.Seignovert (univ-reims@seignovert.fr)
+// @date     2016/09/30
+//----------------------------------------------------
+
 #version 3.5;
 
 #include "colors.inc"
